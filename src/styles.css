@@ -1,0 +1,36 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.wrapper {
+}
+.items {
+  font-family: Arial, Helvetica, sans-serif;
+  border: solid 1px #eee;
+  height: 100%;
+  padding: 10px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.items img {
+  max-height: 250px;
+}
+.MuiGrid-spacing-xs-3 > .MuiGrid-item {
+  padding: 12px;
+  margin-bottom: 20px;
+}
+.cartwrapper {
+  display: flex;
+  padding: 20px;
+}
+.imgwrapper img {
+  max-width: 200px;
+}
+.cartItems {
+  padding: 20px;
+}
+.buttons,
+.information {
+  display: flex;
+  justify-content: space-between;
+}
